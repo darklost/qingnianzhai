@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="locations">
+        <item>青年图摘</item>
+        <item>女青年</item>
+    </string-array>
+    <string-array name="menu">
+        <item>@string/tuzhai</item>
+        <item>@string/girls</item>
+        <item>@string/news</item>
+        <item>@string/feedback</item>
+    </string-array>
+
+    <string name="tuzhai">图摘</string>
+    <string name="girls">女青年</string>
+    <string name="news">公告</string>
+    <string name="feedback">意见反馈</string>
+
+</resources>
